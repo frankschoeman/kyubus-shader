@@ -1,6 +1,6 @@
 # kyubus-shader
 
-Reshade Retro CRT shader without scan lines
+Reshade Retro CRT shader
 
 Preview video: https://youtu.be/H5H33brpl-g
 
