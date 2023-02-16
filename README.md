@@ -1,7 +1,7 @@
 # kyubus-shader
 Reshade Retro CRT shader without scan lines
 
-Video Preview: https://youtu.be/kGK-6U8aUfY
+This shader is mainly tested on a 1440P resolution!
 
 
 #1 To use this you need Reshade, download the latest version here: https://reshade.me/
