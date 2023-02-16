@@ -4,7 +4,7 @@ Reshade Retro CRT shader without scan lines
 
 Preview video: https://youtu.be/H5H33brpl-g
 
-This shader is mainly tested on a 1440P resolution!
+This shader is mainly tested on a resolution of 1440P
 
 
 #1 To use this you need Reshade, download the latest version here: https://reshade.me/
