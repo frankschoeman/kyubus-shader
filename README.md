@@ -1,16 +1,13 @@
-# kyubus-shader
+Kyubus Shader is a collection of Reshade retro CRT presets using existing shaders such as CRT-Royale and CRT-Lottes.
 
-Reshade Retro CRT shader
+[![Video Preview](https://i9.ytimg.com/vi_webp/LKI_GUob42o/mqdefault.webp?v=640124e8&sqp=COyuhqAG&rs=AOn4CLCD5T6bXMkXpCiumloR9zuxRpVf6Q)](https://youtu.be/LKI_GUob42o)
 
-Preview video: https://youtu.be/H5H33brpl-g
+These presets are Only tested on a monitor resolution of 2560x1440
 
-This shader is mainly tested on a resolution of 1440P
-
+To make the lower resolution shader display correctly RetroArch(or any emulator) integer scaling needs to be switched ON ( Settings>video>scaling). I also recommend trying RetroArch shaders underneath such as "/xbr/super-xbr-fast.slangp" and "/cubic/catmull-rom-fast.slangp".
 
 #1 To use this you need Reshade, download the latest version here: https://reshade.me/
 
 #2 Open the .exe and follow the instructions, after chosing the graphics API you can skip the remaining steps.
 
 #3 Copy the contents of this zip file to the game or emulator's executable.
-
-#4 Done
