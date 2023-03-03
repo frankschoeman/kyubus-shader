@@ -1,6 +1,7 @@
 Kyubus Shader is a collection of Reshade retro CRT presets using existing shaders such as CRT-Royale and CRT-Lottes.
 
 [![Video Preview](https://i9.ytimg.com/vi_webp/LKI_GUob42o/mqdefault.webp?v=640124e8&sqp=COyuhqAG&rs=AOn4CLCD5T6bXMkXpCiumloR9zuxRpVf6Q)](https://youtu.be/LKI_GUob42o)
+
 Preview video: https://youtu.be/LKI_GUob42o
 
 These presets are Only tested on a monitor resolution of 2560x1440
