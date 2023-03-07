@@ -6,7 +6,7 @@ Preview video: https://youtu.be/LKI_GUob42o
 
 These presets are Only tested on a monitor resolution of 2560x1440
 
-To make the lower resolution shaders (240P) display correctly RetroArch(or any emulator) integer scaling needs to be switched ON ( Settings>video>scaling). I also recommend trying RetroArch shaders underneath such as "/xbr/super-xbr-fast.slangp" (Set Input and Output gamma to 1.0 in shader parameters) and "/cubic/catmull-rom-fast.slangp". In case those aren't available I suggest enabling Gaussian blur.
+To make the lower resolution shaders (240P) display correctly RetroArch(or any emulator) integer scaling needs to be switched ON ( Settings>video>scaling). I also recommend trying RetroArch shaders underneath such as "/xbr/super-xbr-fast.slangp" (Set Input and Output gamma to 1.0 in shader parameters) and "/cubic/catmull-rom-fast.slangp". In case those aren't available I suggest enabling Gaussian blur. If you find the image is "jittering" too much then find Deband and reduce the Range.
 
 #1 To use this you need Reshade, download the latest version here: https://reshade.me/
 
