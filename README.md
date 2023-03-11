@@ -10,8 +10,7 @@ These presets are mainly developed for a monitor resolution of 1440p. But preset
 #2 Open the .exe and follow the instructions, after chosing the graphics API you can skip the remaining steps. </br>
 #3 Copy the contents of this zip file to the game or emulator's executable.
 
-Hotkeys:
-
+Hotkeys:</br>
 Home 				: Brings up the ReShade interface </br>
 ` 					: Toggle the current preset </br>
 Alt Gr + . 	: Next preset </br>
