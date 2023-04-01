@@ -22,4 +22,4 @@ To make the lower resolution shader display correctly RetroArch(or any emulator)
 Suggested apps to use Reshade with: </br>
 ShaderGlass - System wide desktop shading </br>
 MPC-BE - The only media player I know Reshade can be enabled with (dx9) </br>
-RetroArch - Emulation
+RetroArch - Emulation. Look up the WindowCast core for shading ANY application inside RetroArch! It is not a standard core included with the RetroArch installer at the momen of writing.
