@@ -7,9 +7,14 @@ Preview video: https://youtu.be/8yyFveYiMFg
 
 These presets are mainly developed for a monitor resolution of 1440p. But presets for 1080p and 4k monitors are included.
 
-#1 To use this you need Reshade, download the latest version here: https://reshade.me/ </br>
+Reshade shader installation: </br>
+#1 To use the Reshade shaders, you need to download the latest version here: https://reshade.me/ </br>
 #2 Open the .exe and follow the instructions, after chosing the graphics API you can skip the remaining steps. </br>
 #3 Copy the contents of this zip file to the game or emulator's executable.
+
+RetroArch shader installation: </br>
+#1 Place the files from the "RetroArch-native-shader" folder in the "RetroArch base\shaders\" folder </br>
+#2 Then in retroach, open the Quickmenu with F1 > shaders > load > kyubus-crtguest.slangp
 
 Reshade Hotkeys:</br>
 Home 				: Brings up the ReShade interface </br>
