@@ -1,4 +1,4 @@
-The latest version includes a RetroArch native preset! Featuring crt-guest, Reshade is not needed. </br></br>
+The latest version includes RetroArch native presets. Reshade is not needed for these. </br></br>
 Kyubus Shader is a collection of Reshade and RetroArch retro CRT presets using existing shaders such as CRT-Guest, CRT-Royale and CRT-Lottes. I do not take credit for creating these shaders, they are just included for convenience. The Look-Up-Texture (LUT) and preset settings are my work.
 
 [![Video Preview](https://i.postimg.cc/3x8k0GyN/thumb.jpg)](https://youtu.be/8yyFveYiMFg)
@@ -22,7 +22,7 @@ Home 				: Brings up the ReShade interface </br>
 Alt Gr + . 	: Next preset </br>
 Alt Gr + , 	: Prevrious preset
 
-To make the lower resolution shader display correctly RetroArch(or any emulator) integer scaling needs to be switched ON ( Settings>video>scaling). I also recommend trying RetroArch shaders underneath such as "/xbr/super-xbr-fast.slangp"(Set Input and Output gamma to 1.0 in shader parameters) and "/cubic/catmull-rom-fast.slangp". In case those aren't available I suggest setting the preset to one where GaussianBlur is enabled. GaussianBlur and LumaSharpen are probably the first parameters you might want to adjust depending on the resolution of the content and your preferences.
+To make the lower resolution shader display correctly RetroArch(or any emulator) integer scaling needs to be switched ON ( Settings>video>scaling).
 
 Suggested apps to use Reshade with: </br>
 ShaderGlass - System wide desktop shading </br>
