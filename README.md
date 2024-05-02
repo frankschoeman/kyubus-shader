@@ -1,5 +1,5 @@
 The latest version includes RetroArch native presets. Reshade is not needed for these. </br></br>
-Kyubus Shader is a collection of Reshade and RetroArch retro CRT presets using existing shaders such as CRT-Guest, CRT-Royale and CRT-Lottes. I do not take credit for creating these shaders, they are just included for convenience. The Look-Up-Texture (LUT) and preset settings are my work.
+Kyubus Shader is a collection of Reshade and RetroArch retro CRT presets using existing shaders such as CRT-Guest, CRT-Royale and CRT-Lottes. I do not take credit for creating these shaders, they are just included for convenience. The Look-Up-Texture (LUT) and preset settings are my work. Shader presets that ar friendly for streaming and video encoding are included.
 
 [![Video Preview](https://i.postimg.cc/3x8k0GyN/thumb.jpg)](https://youtu.be/8yyFveYiMFg)
 
@@ -8,13 +8,13 @@ Preview video: https://youtu.be/8yyFveYiMFg
 These presets are mainly developed for a monitor resolution of 1440p. But presets for 1080p and 4k monitors are included.
 
 Reshade shader installation: </br>
-#1 To use the Reshade shaders, you need to download the latest version here: https://reshade.me/ </br>
+#1 To use the Reshade shaders, you need to download the latest version of Reshade from the official website: https://reshade.me/ </br>
 #2 Open the .exe and follow the instructions, after chosing the graphics API you can skip the remaining steps. </br>
-#3 Copy the contents of this zip file to the game or emulator's executable.
+#3 Copy the contents of this zip file to the game or emulator's executable, and overwrite the .ini file.
 
 RetroArch shader installation: </br>
-#1 Place the files from the "RetroArch-native-shader" folder in the "RetroArch base\shaders\" folder </br>
-#2 Then in retroach, open the Quickmenu with F1 > shaders > load > kyubus-crtguest.slangp
+#1 Place the files from the zip file "/kyubus-extras/RetroArch-native-shader" folder in the "RetroArch base\shaders\" folder </br>
+#2 Then in retroach while in game, open the Quickmenu with F1 > shaders > load > kyubus-crtguest.slangp
 
 Reshade Hotkeys:</br>
 Home 				: Brings up the ReShade interface </br>
