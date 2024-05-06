@@ -10,7 +10,7 @@ These presets are mainly developed for a monitor resolution of 1440p. But preset
 
 Reshade shader installation: </br>
 #1 To use the Reshade shaders, you need to download the latest version of Reshade from the official website: https://reshade.me/ </br>
-#2 Open the .exe and follow the instructions, after chosing the graphics API you can skip the remaining steps. </br>
+#2 Open the .exe and follow the instructions, after chosing the the correct rendering API you can skip the remaining steps. </br>
 #3 Copy the "reshade-shaders" folder and the "reshade.ini" from the zip file to the folder of the game or emulator's executable, and overwrite the .ini file. Then copy preset files from either the "1440p-" or "1080p-monitor-presets" folder to the same location. So the structure will look like this: </br>
 📁game folder </br>
 ├─📁 reshade-shaders </br>
