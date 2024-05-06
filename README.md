@@ -1,4 +1,3 @@
-The latest version includes RetroArch native presets. Reshade is not needed for these. </br></br>
 Kyubus Shader is a collection of Reshade and RetroArch retro CRT presets using existing shaders such as CRT-Guest, CRT-Royale and CRT-Lottes. I do not take credit for creating these shaders, they are just included for convenience. The Look-Up-Texture (LUT) and preset settings are my work.
 
 ![screenshot](https://i.postimg.cc/4Nm7GD4X/assd.jpg)
@@ -20,7 +19,9 @@ Reshade shader installation: </br>
 ├─📄kyubus-CRTguest-ntsc-scanline-SD.ini </br>
 ├─📄kyubus-... etc
 
-RetroArch shader installation: </br>
+IMPORTANT: integer scaling needs to be switched ON (RetroArch>Settings>video>scaling) For better results on 'low resolution' presets.
+
+(Optional) Native RetroArch shader installation:  </br>
 #1 Place the files from the zip file "kyubus-extras/RetroArch-native-shader" folder in the "RetroArch root\shaders\" folder </br>
 #2 Then in retroach while in game, open the Quickmenu with F1 > shaders > load > kyubus-crtguest.slangp
 
@@ -28,9 +29,7 @@ Reshade Hotkeys:</br>
 Home 				: Brings up the ReShade interface </br>
 ` 					: Toggle the current preset </br>
 Alt Gr + . 	: Next preset </br>
-Alt Gr + , 	: Prevrious preset
-
-To make the lower resolution shader display correctly RetroArch(or any emulator) integer scaling needs to be switched ON ( Settings>video>scaling).
+Alt Gr + , 	: Prevrious preset </br> </br>
 
 Suggested apps to use Reshade with: </br>
 ShaderGlass - System wide desktop shading </br>
