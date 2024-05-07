@@ -19,7 +19,7 @@ Reshade shader installation: </br>
 ├─📄kyubus-CRTguest-ntsc-scanline-SD.ini </br>
 ├─📄kyubus-... etc
 
-IMPORTANT: integer scaling needs to be switched ON (RetroArch>Settings>video>scaling) For better results on 'low resolution' presets.
+For better results on low resolution scanline presets (like CRTguest-ntsc-scanline-SD) INTEGER scaling needs to be switched ON ( RetroArch>Settings>video>scaling).
 
 (Optional) Native RetroArch shader installation:  </br>
 #1 Place the files from the zip file "kyubus-extras/RetroArch-native-shader" folder in the "RetroArch root\shaders\" folder </br>
@@ -29,7 +29,7 @@ Reshade Hotkeys:</br>
 Home 				: Brings up the ReShade interface </br>
 ` 					: Toggle the current preset </br>
 Alt Gr + . 	: Next preset </br>
-Alt Gr + , 	: Prevrious preset </br> </br>
+Alt Gr + , 	: Prevrious preset </br>
 
 Suggested apps to use Reshade with: </br>
 ShaderGlass - System wide desktop shading </br>
