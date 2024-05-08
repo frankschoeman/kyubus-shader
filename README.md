@@ -1,6 +1,6 @@
 Kyubus Shader is a collection of Reshade and RetroArch retro CRT presets using existing shaders such as CRT-Guest, CRT-Royale and CRT-Lottes. I do not take credit for creating these shaders, they are just included for convenience. The Look-Up-Texture (LUT) and preset settings are my work.
 
-![screenshot](https://i.postimg.cc/gjkZ9PJp/collage.jpg)
+![screenshot](https://i.postimg.cc/ysF1bW0f/collag2e.jpg)
 
 Preview video: https://youtu.be/O5lSHXT0TVg
 
