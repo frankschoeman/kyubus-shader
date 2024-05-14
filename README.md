@@ -19,6 +19,7 @@ Reshade shader installation: </br>
 ├─📄kyubus-... etc
 
 For better results on low resolution scanline presets (like CRTguest-ntsc-scanline-SD) INTEGER scaling needs to be switched ON ( RetroArch>Settings>video>scaling).
+Added preset folder called "NoGammaChangePresets" useful for (modern) content that doesn't need more contrast.
 
 (Optional) Native RetroArch shader installation:  </br>
 #1 Place the files from the zip file "kyubus-extras/RetroArch-native-shader" folder in the "RetroArch root\shaders\" folder </br>
