@@ -22,7 +22,7 @@ Reshade shader installation: </br>
 
 For better results on low resolution scanline presets (like CRTguest-ntsc-scanline-SD) INTEGER scaling needs to be switched ON ( RetroArch>Settings>video>scaling).
 
-(Optional) Native RetroArch shader installation:  </br>
+RetroArch shader installation:  </br>
 #1 Place the files from the zip file "kyubus-extras/RetroArch-native-shader" folder in the "RetroArch root\shaders\" folder </br>
 #2 Then in retroach while in game, open the Quickmenu with F1 > shaders > load > kyubus-crtguest.slangp
 
