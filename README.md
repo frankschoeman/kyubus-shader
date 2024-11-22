@@ -18,9 +18,7 @@ Reshade shader installation: </br>
 ├─📄kyubus-CRTguest-ntsc-scanline-SD.ini </br>
 ├─📄kyubus-... etc
 
-"NoGammaChangePresets" are useful for Operating systems that are already gamma calibrated, or content that does not need more contrast.
-
-For better results on low resolution scanline presets (like CRTguest-ntsc-scanline-SD) INTEGER scaling needs to be switched ON ( RetroArch>Settings>video>scaling).
+For better results on low resolution scanline presets (like CRTguest-ntsc-scanline-SD) INTEGER scaling can be switched ON ( RetroArch>Settings>video>scaling).
 
 RetroArch shader installation:  </br>
 #1 Place the files from the zip file into the "RetroArch root\shaders\" folder </br>
