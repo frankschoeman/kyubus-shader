@@ -2,7 +2,7 @@ Kyubus Shader is a collection of Reshade and RetroArch retro CRT presets using e
 
 ![Video Preview](https://i.postimg.cc/qBRy2CD8/collage2x.jpg)
 
-Preview video: https://youtu.be/iVFYCKfI0Iw
+Preview video: [https://youtu.be/iVFYCKfI0Iw](https://youtu.be/lqTKaM8asgE)
 
 Presets are developed for 16:9 monitors with resolution of 1440p, 1080p and 2160p(4k). Oher configurations should work too, but some presets won't look quite right.
 
